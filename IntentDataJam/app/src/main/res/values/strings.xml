@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent Data Jam</string>
+    <string name="rumus">Jam ke Menit</string>
+    <string name="jam">Masukkan Jam</string>
+</resources>
